@@ -1,0 +1,20 @@
+{
+    "name": "@kumaraguru/is-even",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kumaraguru16/Is-Even.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kumaraguru16/Is-Even/issues"
+    },
+    "homepage": "https://github.com/kumaraguru16/Is-Even#readme"
+}
